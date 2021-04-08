@@ -1,0 +1,10 @@
+Aplicação Python com clima de qualquer cidade
+
+A aplicação feita em Python realiza consultas de temperatura, umidade e situação climática de diversas cidades em todo mundo, com base nos dados fornecidos pela openweathermap.org
+
+A aplicação interage de forma web através da utilização do framework STREAMLIT
+
+O banco de dados utilizado para salvar as pesquisas e possibilitar consultas foi o SQLITE3. Esse banco é uma opção leve para quem não dispões de um computador com maior capacidade, ou mesmo para aplicações que não exigem muito armazenamento de dados.
+
+É possível verificar o funcionamento online, no computador local o acesso se faz em : http://localhost:8501/
+
